@@ -1,4 +1,4 @@
- Facebook Clone - Project Setup & Run Guide
+Facebook Clone - Project Setup & Run Guide
 Overview
 This is a Facebook-like social media platform built with PHP, MySQL, and Bootstrap. Follow this guide to set up and run the project on your local machine.
 
@@ -234,3 +234,5 @@ Quick Setup Checklist:
  Visit http://localhost/fb/index.php
  Login with Admin credentials or register as user
 Done! 🎉 Your Facebook clone is ready to use.
+
+Last Updated: july 7, 2026
